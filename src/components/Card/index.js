@@ -1,16 +1,12 @@
 import React from "react";
 import "./card.css";
 
-function Card(props) {
-    return (
-        <div
-            style={{ backgroundImage: `url(${props.image})` }}
-            className="chi-card col-md-4"
-            onClick={() => props.handleClicked(props.id)}
-        >
-            {props.name}
-        </div>
-    )
-}
+const Cards = props => (
+  <div className="card" onClick={() => props.clickedImage(props.id)}>
+    <div className="img-container">
+      <img alt={props.name} src={props.image} />
+    </div>
+  </div>
+);
 
-export default Card;
+export default Cards;

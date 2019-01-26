@@ -1,18 +1,34 @@
-.chi-card {
-    height: 100px;
-    width: 100px;
+.card {
+    height: 200px;
+    width: 200px;
     text-align: center;
     color: white;
     background-repeat: no-repeat;
     margin: 0 auto 20px;
-  }
-  
-  .chi-card:hover {
+    /* height: 185px;
+    position: relative;
+    width: 175px;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.48); */
+}
+
+.card:hover {
     cursor: pointer;
     box-shadow: 8px 8px 20px rgb(56, 56, 56);
     transform: scale(1.1);
     cursor: pointer;
-  }
-  .chi-card:active {
+}
+
+.card:active {
     transform: translate(1px, 1px);
-  }
+}
+
+.card .img-container {
+    height: 100%;
+    overflow: hidden;
+}
+
+.card .img-container>img {
+    width: 100%;
+    height: 100%;
+}

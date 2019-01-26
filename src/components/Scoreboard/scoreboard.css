@@ -18,6 +18,7 @@
 }
 
 .alert, .alert-danger, .alert-success {
+  font-family: 'Noto Serif SC', serif;
   margin-bottom: -20px;
   background-color: #fff !important;
   border: solid 0 #fff;

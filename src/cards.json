@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/wassily-kandinsky-composition-8-1923.png",
+        "artist": "Wassily Kandinsky",
+        "title": "Composition 8",
+        "year": "1923"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/salvador-dali-the-persistence-of-memory-1931.png",
+        "artist": "Salvador Dalí",
+        "title": "The Persistence of Memory",
+        "year": "1931"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/roy-lichtenstein-drowning-girl-1963.png",
+        "artist": "Roy Lichtenstein",
+        "title": "Drowning Girl",
+        "year": "1963"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/rene-magritte-the-son-of-man-1946.png",
+        "artist": "René Magritte",
+        "title": "The Son of Man",
+        "year": "1964"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/piet-mondrian-composition-large-red-plane-1921.png",
+        "artist": "Piet Mondrian",
+        "title": "Composition Large Red Plane",
+        "year": "1921"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/paul-klee-castle-and-sun-1928.png",
+        "artist": "Paul Klee",
+        "title": "Castle and Sun",
+        "year": "1928"
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/pablo-picasso-the-old-guitarist-1903.png",
+        "artist": "Pablo Picasso",
+        "title": "The Old Guitarist",
+        "year": "1903"
+    },
+    {
+        "id": 8,
+        "image": "/assets/images/mark-rothko-untitled-1949.png",
+        "artist": "Mark Rothko",
+        "title": "Untitled",
+        "year": "1949"
+    },
+    {
+        "id": 9,
+        "image": "/assets/images/marc-chagall-rural-landscape-1917.png",
+        "artist": "Marc Chagall",
+        "title": "Rural Landscape",
+        "year": "1917"
+    },
+    {
+        "id": 10,
+        "image": "/assets/images/keith-haring-best-buddies-1989.png",
+        "artist": "Keith Haring",
+        "title": "Best Buddies",
+        "year": "1989"
+    },
+    {
+        "id": 11,
+        "image": "/assets/images/katsushika-hokusai-the-great-wave-off-kanagawa-1832.png",
+        "artist": "Katsushika Hokusai",
+        "title": "The Great Wave off Kanagawa",
+        "year": "1832"
+    },
+    {
+        "id": 12,
+        "image": "/assets/images/joan-miro-chiffres-et-constellations-amoureux-1959.png",
+        "artist": "Joan Miro",
+        "title": "Chiffres et Constellations Amoureux",
+        "year": "1959"
+    },
+    {
+        "id": 13,
+        "image": "/assets/images/henri-matisse-la-tristesse-du-roi-1952.png",
+        "artist": "Henri Matisse",
+        "title": "La Tristesse Du Roi",
+        "year": "1952"
+    },
+    {
+        "id": 14,
+        "image": "/assets/images/gustav-klimt-water-serpents-II-1902.png",
+        "artist": "Gustav Klimt",
+        "title": "Water Serpents II",
+        "year": "1902"
+    },
+    {
+        "id": 15,
+        "image": "/assets/images/frida-kahlo-self-portrait-II-1940.png",
+        "artist": "Frida Kahlo ",
+        "title": "Self Portrait II",
+        "year": "1940"
+    },
+    {
+        "id": 16,
+        "image": "/assets/images/frank-stella-abra-variation-I-1969.png",
+        "artist": "Frank Stella",
+        "title": "Abra Variation I",
+        "year": "1969"
+    },
+    {
+        "id": 17,
+        "image": "/assets/images/egon-schiele-self-portrait-with-physalis-1912.png",
+        "artist": "Egon Schiele",
+        "title": "Self Portrait with Physalis",
+        "year": "1912"
+    },
+    {
+        "id": 18,
+        "image": "/assets/images/edvard-munch-the-scream-1893.png",
+        "artist": "Edvard Munch",
+        "title": "The Scream",
+        "year": "1893"
+    },
+    {
+        "id": 19,
+        "image": "/assets/images/david-hockney-a-bigger-splash-1967.png",
+        "artist": "David Hockney",
+        "title": "A Bigger Splash",
+        "year": "1967"
+    },
+    {
+        "id": 20,
+        "image": "/assets/images/andy-warhol-marilyn-monroe-1967.png",
+        "artist": "Andy Warhol",
+        "title": "Marilyn Monroe",
+        "year": "1967"
+    }
+]

@@ -1,0 +1,18 @@
+.chi-card {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    margin: 0 auto 20px;
+  }
+  
+  .chi-card:hover {
+    cursor: pointer;
+    box-shadow: 8px 8px 20px rgb(56, 56, 56);
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+  .chi-card:active {
+    transform: translate(1px, 1px);
+  }

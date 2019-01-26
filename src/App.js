@@ -84,13 +84,16 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <Scoreboard score={this.state.score} topScore={this.state.topScore} />
+        <Scoreboard 
+        title="MOMA Clicky Game"
+        score={this.state.score} 
+        topScore={this.state.topScore} />
 
         <div
           className="alert alert-danger"
           style={{ opacity: this.state.showAlert }}
         >
-          Sorry you clicked the same person twice, start over
+          Sorry you clicked the same painting twice, start over
         </div>
         <div
           className="alert alert-success"

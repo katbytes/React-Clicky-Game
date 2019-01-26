@@ -40,7 +40,7 @@ class App extends Component {
     return (
       <div className="container">
         <Scoreboard 
-          title="Modern Art Clicker"
+          title="MOMA Clicky Game"
           score={this.state.score} 
           tally={this.state.tally} 
           randomId={this.state.randomId} 

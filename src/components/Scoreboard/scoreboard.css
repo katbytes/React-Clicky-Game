@@ -1,0 +1,26 @@
+.scoreB {
+  padding-top: 10px;
+  margin-top: 5px;
+  /* background-color: red; */
+  border-radius: 25px;
+}
+
+.col-left {
+  font-family: 'Major Mono Display', monospace;
+  text-align: left;
+  padding-top: 50px;
+}
+
+.col-right {
+  font-family: 'Noto Serif SC', serif;
+  text-align: right;
+  padding-right: 50px;
+}
+
+.alert, .alert-danger, .alert-success {
+  margin-bottom: -20px;
+  background-color: #fff !important;
+  border: solid 0 #fff;
+  color: red;
+  /* border-radius: 25px; */
+}

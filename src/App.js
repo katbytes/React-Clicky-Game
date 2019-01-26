@@ -84,10 +84,11 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <Scoreboard 
-        title="MOMA Clicky Game"
-        score={this.state.score} 
-        topScore={this.state.topScore} />
+        <Scoreboard
+          title="MoMA clicky Game"
+          score={this.state.score}
+          topScore={this.state.topScore}
+        />
 
         <div
           className="alert alert-danger"
@@ -107,7 +108,9 @@ class App extends Component {
             <Card
               key={painting.id}
               id={painting.id}
-              name={painting.name}
+              artist={painting.artist}
+              title={painting.title}
+              year={painting.year}
               image={painting.image}
               clickedImage={this.clickedImage}
             />

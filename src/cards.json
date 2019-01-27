@@ -79,7 +79,7 @@
   {
     "id": 12,
     "image": "/assets/images/joan-miro-chiffres-et-constellations-amoureux-1959.png",
-    "artist": "Joan Miro",
+    "artist": "Joan Miró",
     "title": "Chiffres et Constellations Amoureux",
     "year": "1959"
   },
@@ -87,7 +87,7 @@
     "id": 13,
     "image": "/assets/images/henri-matisse-la-tristesse-du-roi-1952.png",
     "artist": "Henri Matisse",
-    "title": "La Tristesse Du Roi",
+    "title": "La Tristesse du roi",
     "year": "1952"
   },
   {
@@ -100,7 +100,7 @@
   {
     "id": 15,
     "image": "/assets/images/frida-kahlo-self-portrait-II-1940.png",
-    "artist": "Frida Kahlo ",
+    "artist": "Frida Kahlo",
     "title": "Self Portrait II",
     "year": "1940"
   },
@@ -138,5 +138,33 @@
     "artist": "Andy Warhol",
     "title": "Marilyn Monroe",
     "year": "1967"
+  },
+  {
+    "id": 21,
+    "image": "/assets/images/gustav-klimt-water-serpents-I-1902.png",
+    "artist": "Gustav Klimt",
+    "title": "Water Serpents I",
+    "year": "1902"
+  },
+  {
+    "id": 22,
+    "image": "/assets/images/fernand-leger-la-femme-et-lenfant-1922.png",
+    "artist": "Fernand Léger",
+    "title": "La femme et l'enfant",
+    "year": "1922"
+  },
+  {
+    "id": 23,
+    "image": "/assets/images/keith-haring-ball-1988.png",
+    "artist": "Keith Haring",
+    "title": "Ball",
+    "year": "1988"
+  },
+  {
+    "id": 24,
+    "image": "/assets/images/diego-rivera-the-flower-seller-1942.png",
+    "artist": "Diego Rivera",
+    "title": "The Flower Seller",
+    "year": "1942"
   }
 ]

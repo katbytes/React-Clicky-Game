@@ -84,13 +84,13 @@ class App extends Component {
           className="alert alert-danger"
           style={{ opacity: this.state.showAlert }}
         >
-          You clicked on this famous art peice already, try again...
+          You clicked on this already, try again...
           </div>
         <div
           className="alert alert-success"
           style={{ opacity: this.state.showSuccess }}
         >
-          Congratulations, you haven't clicked on duplicate paintings!
+          Brilliant, you haven't clicked on duplicates!
           </div>
         <Scoreboard
           title="MoMA clicky Game"

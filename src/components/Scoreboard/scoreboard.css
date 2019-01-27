@@ -41,9 +41,11 @@ h6:hover {
   font-family: "Noto Serif SC", serif;
   text-transform: uppercase;
   color: #fff;
-  display: inline;
+  /* display: inline; */
   background-color: red !important;
   border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
   padding: 0 !important;
   cursor: default;
   /* margin: auto; */
@@ -57,15 +59,15 @@ h6:hover {
 .alert-success {
   font-family: "Noto Serif SC", serif;
   text-transform: uppercase;
-  text-align: center;
-  margin-bottom: -20px;
-  background-color: blue !important;
-  border: solid 0 #fff;
   color: #fff;
-  border-radius: 25px;
-  width: 700px;
+  /* display: inline; */
+  background-color: blue !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
   cursor: default;
-  margin: auto;
+  /* margin: auto; */
 }
 
 .alert-success:hover {
@@ -78,4 +80,22 @@ h6:hover {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #dddddd;
+}
+
+.footer {
+  font-family: "Noto Serif SC", serif;
+  background-color: #000;
+  color: #fff;
+  text-align: right;
+}
+.footer:hover {
+  background-color: #fff;
+  color:red;
+}
+.footer a {
+  color: #fff;
+}
+.footer a:hover {
+  color:red;
+  text-decoration: none;
 }

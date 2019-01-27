@@ -23,11 +23,13 @@
   width: 100%;
   height: 100%;
   filter: invert(100%);
+  background-repeat: no-repeat;
 }
 
 .img-container:hover .overlay {
   bottom: 0;
   height: 100%;
+  background-repeat: no-repeat;
 }
 
 .overlay {
@@ -41,10 +43,14 @@
   height: 0;
   transition: 0.5s ease;
   opacity: 0.8;
+  cursor: pointer;
+  /* cursor:cell; */
+  /* cursor:crosshair; */
+  /* cursor:progress; */
 }
 
 .text {
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Noto Serif SC", serif;
   color: white;
   font-size: 1.8em;
   position: absolute;

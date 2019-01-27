@@ -3,7 +3,7 @@ import paintings from "./cards.json";
 import Scoreboard from "./components/Scoreboard";
 import Card from "./components/Card";
 
-/// Errday I'm shuffling
+// shuffle upon each click
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -20,7 +20,6 @@ class App extends Component {
     showAlert: 0,
     showSuccess: 0,
     clickedpaintings: []
-    // clickedpaintings: []
   };
 
   clickedImage = id => {
@@ -42,13 +41,14 @@ class App extends Component {
       // run the reshuffle function after each click
       this.makeShuffle();
     } else if (this.state.score === 12) {
-      // alert("You win, you clicked each painting with out clicking doubles")
+      // alert player wins
       this.setState({
         showSuccess: 1,
         score: 0,
         clickedpaintings: []
       });
     } else {
+       // alert player loss
       this.setState({
         score: 0,
         clickedpaintings: []
@@ -77,34 +77,28 @@ class App extends Component {
     this.setState({ paintings: shuffle(paintings) });
   };
 
-  // reset = () => {
-  //   this.setState({ score: 0 })
-  // }
-
   render() {
     return (
       <div className="container">
+        <div
+          className="alert alert-danger"
+          style={{ opacity: this.state.showAlert }}
+        >
+          You clicked on this famous art peice already, try again...
+          </div>
+        <div
+          className="alert alert-success"
+          style={{ opacity: this.state.showSuccess }}
+        >
+          Congratulations, you haven't clicked on duplicate paintings!
+          </div>
         <Scoreboard
           title="MoMA clicky Game"
           score={this.state.score}
           topScore={this.state.topScore}
         />
-
-        <div
-          className="alert alert-danger"
-          style={{ opacity: this.state.showAlert }}
-        >
-          Sorry you clicked the same painting twice, start over
-        </div>
-        <div
-          className="alert alert-success"
-          style={{ opacity: this.state.showSuccess }}
-        >
-          You win, you clicked each painting with out clicking doubles
-        </div>
         <div className="row">
           {this.state.paintings.map(painting => (
-            // <paintings
             <Card
               key={painting.id}
               id={painting.id}

@@ -1,27 +1,81 @@
+h5,
+h6 {
+  background-color: #fff;
+  display: inline;
+  cursor: default;
+}
+
+h5 {
+  font-size: 2.5em;
+}
+
+h5:hover {
+  color: #fff;
+  background-color: #000;
+  display: inline;
+}
+
+h6:hover {
+  color: #fff;
+  background-color: red;
+  display: inline;
+}
+
 .scoreB {
-  padding-top: 10px;
-  margin-top: 5px;
-  /* background-color: red; */
-  border-radius: 25px;
+  margin-bottom: 10px;
 }
 
 .col-left {
-  font-family: 'Major Mono Display', monospace;
+  font-family: "Major Mono Display", monospace;
   text-align: left;
-  padding-top: 50px;
 }
 
 .col-right {
-  font-family: 'Noto Serif SC', serif;
+  font-family: "Noto Serif SC", serif;
   text-align: right;
-  padding-right: 50px;
+  padding-top: 20px;
+  padding-right: 40px;
 }
 
-.alert, .alert-danger, .alert-success {
-  font-family: 'Noto Serif SC', serif;
+.alert-danger {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: #fff;
+  display: inline;
+  background-color: red !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  cursor: default;
+  /* margin: auto; */
+}
+
+.alert-danger:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+.alert-success {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  text-align: center;
   margin-bottom: -20px;
-  background-color: #fff !important;
+  background-color: blue !important;
   border: solid 0 #fff;
-  color: red;
-  /* border-radius: 25px; */
+  color: #fff;
+  border-radius: 25px;
+  width: 700px;
+  cursor: default;
+  margin: auto;
+}
+
+.alert-success:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+#root {
+  background-image: url("/assets/images/bg-00.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #dddddd;
 }

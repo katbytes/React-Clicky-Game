@@ -13,14 +13,8 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 * Keep going to see if you can get all 24.
 
 ## Screenshots:
-![Screenshot 1](/public/images/screenshots/demo-1.png)
-`Click on an artwork`&#8673;
-
-![Screenshot 2](/public/images/screenshots/demo-2.png)
+![Screenshot 2](/public/images/screenshots/demo-1.png)
 `You've clicked on an image twice`&#8673;
-
-![Screenshot 3](/public/images/screenshots/demo-3.png)
-`You've won`&#8673;
 
 ## Technologies Utilized
 

@@ -24,9 +24,10 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 05. [Node dependencies](https://nodejs.org/en/)
 06. [Bootstrap](https://getbootstrap.com/)
 07. [heroku](https://www.heroku.com)
+08. [PS CC 2018 19.1.3](https://www.adobe.com/products/photoshop.html)
 
 ## How to install and Run
-* git clone the repo
+01. git clone the repo
 * Run npm install to get all dependencies
 * cd into react-clicky-game
 * Run npm start

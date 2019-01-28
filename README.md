@@ -13,7 +13,7 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 * Keep going to see if you can get all 24.
 
 ## Screenshots:
-![Screenshot](/public/images/screenshots/demo-1.png)
+![Screenshot](/public/assets/screenshots/demo-1.png)
 `Can you remember all 24 paintings?`&#8673;
 
 ## Technologies Utilized

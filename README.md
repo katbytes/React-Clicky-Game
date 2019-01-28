@@ -7,8 +7,11 @@ This is an EXTREME memorization and click game. The object of the game is to cli
 Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-game.herokuapp.com/) (`Heroku`)
 
 ## The Screenshot
-![Screenshot](/public/assets/screenshots/demo-1.png)
+![Screenshot](/public/assets/screenshots/demo-01.png)
 `Can you remember all 24 paintings?`&#8673;
+
+![Screenshot](/public/assets/screenshots/demo-02.png)
+`You have exceptional eidetic memory!`&#8673;
 
 ## How to Play
 * Click on any painting that you desire

@@ -77,9 +77,12 @@ h6:hover {
 
 #root {
   background-image: url("/assets/images/bg-00.png");
-  background-size: cover;
-  background-repeat: no-repeat;
   background-color: #dddddd;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: cover;
 }
 
 .footer {

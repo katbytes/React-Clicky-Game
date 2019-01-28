@@ -83,9 +83,13 @@ h6:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: -40px;
+  margin-bottom: -30px;
 }
-
+iframe {
+  width: 100%;
+  height: 0px;
+  background-color: #fff;
+}
 .footer {
   font-family: "Noto Serif SC", serif;
   background-color: #000;

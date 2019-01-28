@@ -47,6 +47,7 @@ h6:hover {
   border-color: none !important;
   border: 0 !important;
   padding: 0 !important;
+  margin: 0 !important;
   cursor: default;
   /* margin: auto; */
 }
@@ -66,8 +67,8 @@ h6:hover {
   border-color: none !important;
   border: 0 !important;
   padding: 0 !important;
+  margin: 0 !important;
   cursor: default;
-  /* margin: auto; */
 }
 
 .alert-success:hover {
@@ -85,6 +86,7 @@ iframe {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-bottom: -40px;
 }
 
 .footer {
@@ -92,6 +94,7 @@ iframe {
   background-color: #000;
   color: #fff;
   text-align: right;
+  /* height: 400px; */
 }
 .footer:hover {
   background-color: #fff;

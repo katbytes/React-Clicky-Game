@@ -6,7 +6,7 @@ This is an extreme memorization and click game. The object of the game is to cli
 ## Getting Started
 Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-game.herokuapp.com/) (`Heroku`)
 
-## Screenshots:
+## The Screenshot
 ![Screenshot](/public/assets/screenshots/demo-1.png)
 `Can you remember all 24 paintings?`&#8673;
 
@@ -17,7 +17,6 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 * Keep going to see if you can get all 24.
 
 ## Technologies Utilized
-
 01. [React](https://reactjs.org/)
 02. [JavaScript/ES6](http://es6-features.org/#Constants)
 03. [JSX](https://reactjs.org/docs/introducing-jsx.html)

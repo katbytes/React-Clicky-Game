@@ -1,68 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# &#35; Mongo-Scraper&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/modern-art.png"><img src="https://img.icons8.com/color/48/000000/easel.png"><img src="https://img.icons8.com/color/48/000000/magritte.png"><img src="https://img.icons8.com/color/48/000000/edvard-munch.png"><img src="https://img.icons8.com/color/48/000000/picasso.png">
 
-## Available Scripts
+## What is this
+This is a simple memorization and click game. The object of the game is to click on only one character once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 12.
 
-In the project directory, you can run:
+## Getting Started:
+Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-game.herokuapp.com/) (`Heroku`)
 
-### `npm start`
+## How to Play
+Click on any painting that you desire
+The paintings will all reshuffle themselves
+Click on another painting, but REMEMBER that you can only click on a painting once.
+Keep going to see if you can get all 24.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Screenshots:
+![Screenshot 1](/public/images/screenshots/demo-1.png)
+`Click on an artwork`&#8673;
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+![Screenshot 2](/public/images/screenshots/demo-2.png)
+`You've clicked on an image twice`&#8673;
 
-### `npm test`
+![Screenshot 3](/public/images/screenshots/demo-3.png)
+`You've won`&#8673;
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Utilized
 
-### `npm run build`
+01. [React](https://reactjs.org/)
+02. [JavaScript/ES6](http://es6-features.org/#Constants)
+03. [JSX](https://reactjs.org/docs/introducing-jsx.html)
+04  [Yarn dependencies mgmt](https://yarnpkg.com/en/)
+05. [Node dependencies](https://nodejs.org/en/)
+06. [Bootstrap](https://getbootstrap.com/)
+07. [heroku](https://www.heroku.com)
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to install and Run
+git clone the repo
+Run npm install to get all dependencies
+cd into react-clicky-game
+Run npm start
+Go to localhost:3000 in your web browser
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## About the Author:
+[Katherine J. Bell](https://github.com/katbytes)

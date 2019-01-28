@@ -27,7 +27,7 @@ Keep going to see if you can get all 24.
 01. [React](https://reactjs.org/)
 02. [JavaScript/ES6](http://es6-features.org/#Constants)
 03. [JSX](https://reactjs.org/docs/introducing-jsx.html)
-04  [Yarn dependencies mgmt](https://yarnpkg.com/en/)
+04. [Yarn dependencies mgmt](https://yarnpkg.com/en/)
 05. [Node dependencies](https://nodejs.org/en/)
 06. [Bootstrap](https://getbootstrap.com/)
 07. [heroku](https://www.heroku.com)

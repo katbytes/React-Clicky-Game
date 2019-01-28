@@ -29,8 +29,8 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 ## How to install and Run
 01. git clone the repo
 02. Run npm install to get all dependencies
-03. cd into react-clicky-game
-04. Run npm start
+03. cd into the react-clicky-game (pwd or ls to check yo self)
+04. Run yarn start in bash
 05. Go to localhost:3000 in your web browser
 
 ## About the Author:

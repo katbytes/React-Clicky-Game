@@ -47,6 +47,7 @@ h6:hover {
   border-color: none !important;
   border: 0 !important;
   padding: 0 !important;
+  margin: 0 !important;
   cursor: default;
   /* margin: auto; */
 }
@@ -66,15 +67,18 @@ h6:hover {
   border-color: none !important;
   border: 0 !important;
   padding: 0 !important;
+  margin: 0 !important;
   cursor: default;
-  /* margin: auto; */
 }
 
 .alert-success:hover {
   color: #fff;
   background-color: #000 !important;
 }
-
+iframe {
+  width: 100%;
+  height: 0px;
+  }
 #root {
   background-image: url("/assets/images/bg-00.png");
   background-color: #dddddd;
@@ -82,6 +86,7 @@ h6:hover {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-bottom: -40px;
 }
 
 .footer {
@@ -89,6 +94,7 @@ h6:hover {
   background-color: #000;
   color: #fff;
   text-align: right;
+  /* height: 400px; */
 }
 .footer:hover {
   background-color: #fff;

@@ -1,7 +1,7 @@
 # &#35; MoMa Clicky Game&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/modern-art.png"><img src="https://img.icons8.com/color/48/000000/easel.png"><img src="https://img.icons8.com/color/48/000000/magritte.png"><img src="https://img.icons8.com/color/48/000000/edvard-munch.png"><img src="https://img.icons8.com/color/48/000000/picasso.png">
 
 ## What is this
-This is a simple memorization and click game. The object of the game is to click on only one character once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 12.
+This is an extreme memorization and click game. The object of the game is to click on only one painting once. If you repeat guesses, you lose and the score is reset to 0. You win by reaching the max score total of 24.
 
 ## Getting Started:
 Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-game.herokuapp.com/) (`Heroku`)
@@ -14,7 +14,7 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 
 ## Screenshots:
 ![Screenshot](/public/images/screenshots/demo-1.png)
-`You've clicked on an image twice`&#8673;
+`Can you remember all 24 paintings?`&#8673;
 
 ## Technologies Utilized
 

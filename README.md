@@ -13,8 +13,8 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 ## How to Play
 * Click on any painting that you desire
 * The paintings will all reshuffle themselves
-* Click on another painting, but REMEMBER that you can only click on a painting once.
-* Keep going to see if you can get all 24.
+* Click on another painting, but REMEMBER that you can only click on a painting once
+* Keep going to see if you can get all 24
 
 ## Technologies Utilized
 * [React](https://reactjs.org/)
@@ -32,8 +32,8 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 
 ## How to install and Run
 01. git clone the repo
-02. Run npm install to get all dependencies
-03. cd into the react-clicky-game (pwd or ls to check yo self)
+02. cd into the react-clicky-game (pwd or ls to check yo self)
+03. Run yarn install to get all dependencies
 04. Run yarn start in bash
 05. Go to localhost:3000 in your web browser
 

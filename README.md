@@ -22,9 +22,13 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 * [JSX](https://reactjs.org/docs/introducing-jsx.html)
 * [Yarn dependencies mgmt](https://yarnpkg.com/en/)
 * [Node dependencies](https://nodejs.org/en/)
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap 4](https://getbootstrap.com/)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+* [Google Fonts](https://fonts.google.com/)
 * [heroku](https://www.heroku.com)
 * [PS CC 2018 19.1.3](https://www.adobe.com/products/photoshop.html)
+* [macOSMojave 10.14.2](https://support.apple.com/kb/DL1986?locale=en_US)
+* [VSCode](https://code.visualstudio.com/)
 
 ## How to install and Run
 01. git clone the repo

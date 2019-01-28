@@ -7,10 +7,10 @@ This is a simple memorization and click game. The object of the game is to click
 Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-game.herokuapp.com/) (`Heroku`)
 
 ## How to Play
-Click on any painting that you desire
-The paintings will all reshuffle themselves
-Click on another painting, but REMEMBER that you can only click on a painting once.
-Keep going to see if you can get all 24.
+* Click on any painting that you desire
+* The paintings will all reshuffle themselves
+* Click on another painting, but REMEMBER that you can only click on a painting once.
+* Keep going to see if you can get all 24.
 
 ## Screenshots:
 ![Screenshot 1](/public/images/screenshots/demo-1.png)
@@ -33,11 +33,11 @@ Keep going to see if you can get all 24.
 07. [heroku](https://www.heroku.com)
 
 ## How to install and Run
-git clone the repo
-Run npm install to get all dependencies
-cd into react-clicky-game
-Run npm start
-Go to localhost:3000 in your web browser
+* git clone the repo
+* Run npm install to get all dependencies
+* cd into react-clicky-game
+* Run npm start
+* Go to localhost:3000 in your web browser
 
 ## About the Author:
 [Katherine J. Bell](https://github.com/katbytes)

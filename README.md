@@ -17,21 +17,21 @@ Try the app Here [https://moma-clicky-game.herokuapp.com/](https://moma-clicky-g
 * Keep going to see if you can get all 24.
 
 ## Technologies Utilized
-01. [React](https://reactjs.org/)
-02. [JavaScript/ES6](http://es6-features.org/#Constants)
-03. [JSX](https://reactjs.org/docs/introducing-jsx.html)
-04. [Yarn dependencies mgmt](https://yarnpkg.com/en/)
-05. [Node dependencies](https://nodejs.org/en/)
-06. [Bootstrap](https://getbootstrap.com/)
-07. [heroku](https://www.heroku.com)
-08. [PS CC 2018 19.1.3](https://www.adobe.com/products/photoshop.html)
+* [React](https://reactjs.org/)
+* [JavaScript/ES6](http://es6-features.org/#Constants)
+* [JSX](https://reactjs.org/docs/introducing-jsx.html)
+* [Yarn dependencies mgmt](https://yarnpkg.com/en/)
+* [Node dependencies](https://nodejs.org/en/)
+* [Bootstrap](https://getbootstrap.com/)
+* [heroku](https://www.heroku.com)
+* [PS CC 2018 19.1.3](https://www.adobe.com/products/photoshop.html)
 
 ## How to install and Run
 01. git clone the repo
-* Run npm install to get all dependencies
-* cd into react-clicky-game
-* Run npm start
-* Go to localhost:3000 in your web browser
+02. Run npm install to get all dependencies
+03. cd into react-clicky-game
+04. Run npm start
+05. Go to localhost:3000 in your web browser
 
 ## About the Author:
 [Katherine J. Bell](https://github.com/katbytes)
